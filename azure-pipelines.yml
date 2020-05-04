@@ -32,13 +32,6 @@ steps:
   displayName: 'Write build info'
   workingDirectory: $(wwwrootDir)
 
-- task: NuGetCommand@2
-  displayName: 'Nuget Restore'
-  inputs:
-    command: 'restore'
-    feedsToUse: 'config'
-    nugetConfigPath: 'nuget.config'
-
 - task: DotNetCoreCLI@2
   displayName: 'Restore project dependencies'
   inputs:
