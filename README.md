@@ -1,6 +1,13 @@
 # Build Status
 
-Master Branch [![Build Status](https://dev.azure.com/DheerSingh/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/DheerSingh/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=3&branchName=master)
+Master Branch [![Build Status](https://dev.azure.com/DheerSingh/Space%20Game%20-%20web%20-%20SonarCloud/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/DheerSingh/Space%20Game%20-%20web%20-%20SonarCloud/_build/latest?definitionId=3&branchName=master)
+
+# SonarCloud
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Dheer-Rajpoot_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=Dheer-Rajpoot_mslearn-tailspin-spacegame-web)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Dheer-Rajpoot_mslearn-tailspin-spacegame-web&metric=coverage)](https://sonarcloud.io/dashboard?id=Dheer-Rajpoot_mslearn-tailspin-spacegame-web)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Dheer-Rajpoot_mslearn-tailspin-spacegame-web&metric=sqale_index)](https://sonarcloud.io/dashboard?id=Dheer-Rajpoot_mslearn-tailspin-spacegame-web)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Dheer-Rajpoot_mslearn-tailspin-spacegame-web&metric=security_rating)](https://sonarcloud.io/dashboard?id=Dheer-Rajpoot_mslearn-tailspin-spacegame-web)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Dheer-Rajpoot_mslearn-tailspin-spacegame-web&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=Dheer-Rajpoot_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
